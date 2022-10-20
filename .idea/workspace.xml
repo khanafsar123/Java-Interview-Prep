@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d0a711d-09ca-48e6-a76b-d7ce4a32e2ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generalImportant/Print1to100WithoutLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generalImportant/Print1to100WithoutLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CompareTwoInt">
+    <configuration name="CompareTwoInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generalImportant.CompareTwoInt" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generalImportant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Print1To100WithOutNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generalImportant.Print1To100WithOutNumbers" />
       <module name="InterviewQuestions" />
@@ -48,8 +62,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Print1to100WithoutLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generalImportant.Print1to100WithoutLoop" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generalImportant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareTwoInt" />
+        <item itemvalue="Application.Print1to100WithoutLoop" />
         <item itemvalue="Application.Print1To100WithOutNumbers" />
       </list>
     </recent_temporary>
