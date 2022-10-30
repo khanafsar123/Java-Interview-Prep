@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d0a711d-09ca-48e6-a76b-d7ce4a32e2ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generalImportant/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generalImportant/Static.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stringManipulation/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringManipulation/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringManipulation/ReverseStringProfessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringManipulation/ReverseStringProfessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringManipulation/ReverseUsingStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringManipulation/ReverseUsingStringBuffer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,15 +33,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ReverseStringProfessor">
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringManipulation.ReverseString" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Printwithoutloop">
+    <configuration name="Dup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zPractice.Dup" />
+      <module name="InterviewQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringManipulation.Palindrome" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
@@ -53,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringProfessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringManipulation.ReverseStringProfessor" />
+    <configuration name="Printwithoutloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zPractice.Printwithoutloop" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringManipulation.*" />
+          <option name="PATTERN" value="zPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseUsingStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringManipulation.ReverseUsingStringBuffer" />
+    <configuration name="SeleniumCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zzz.SeleniumCheck" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringManipulation.*" />
+          <option name="PATTERN" value="zzz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,25 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalImportant.Static" />
+    <configuration name="zPractice.PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zPractice.PrimeNumber" />
       <module name="InterviewQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generalImportant.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="static1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generalImportant.static1" />
-      <module name="InterviewQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="generalImportant.*" />
+          <option name="PATTERN" value="zPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseStringProfessor" />
-        <item itemvalue="Application.ReverseUsingStringBuffer" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.static1" />
-        <item itemvalue="Application.Static" />
+        <item itemvalue="Application.Printwithoutloop" />
+        <item itemvalue="Application.zPractice.PrimeNumber" />
+        <item itemvalue="Application.Dup" />
+        <item itemvalue="Application.SeleniumCheck" />
+        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -140,16 +148,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stringManipulation/ReverseString.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/stringManipulation/ReverseStringProfessor.java</url>
-          <line>13</line>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

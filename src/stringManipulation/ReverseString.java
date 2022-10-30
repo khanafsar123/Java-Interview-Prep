@@ -6,7 +6,7 @@ public class ReverseString {
     public static void main(String[] args) {
         System.out.println("Method 1");
 
-        String str="Java is good, built, afsar, zero";
+        String str="important method for understanding";
         // using for loop
             String str2="";
             // length -1: because index start at zero and length starts at 1
@@ -16,32 +16,30 @@ public class ReverseString {
            str2+=str.charAt(i);
        }
         System.out.println(str2);
-        System.out.println("=============================");
-        char[] arr=new char[str.length()]; // Method 01: String to character
-        char[] arr1=str.toCharArray();     // Method 02: string to character
-        String [] arr2=str.split(" "); // Method 03> (String to String) this method will split arry after every space or any parameter provided
-
-
-        String [] arr3=new String[] {str};
-
-        String reverse="";
-        for (int i=arr.length-1; i>=0; i--) {
-            reverse+=str.charAt(i);
-           // reverse=reverse+str.charAt(i); or we can do this
 
         }
-        System.out.println(reverse);
 
+    }
+class ArrayReversr{
+    public static void main(String[] args) {
+        String str="important method for understanding";
+        // convert to char array
+        char[] arr=new char[str.length()];
+        String rev="";
+        for (int i=arr.length-1; i>=0; i--){
+            rev+=str.charAt(i);
 
-        System.out.println("===========================");
-        String str3="zero char built string";
-        String [] arr4=new String[] {str3};
-        String reverse1="";
-        for (int i=arr4.length-1; i>=0; i--) {
-            reverse1+=str3.charAt(i);
-            // reverse=reverse+str.charAt(i); or we can do this
-            System.out.println(reverse1);
         }
+        System.out.println(rev);
+
+        String str1="important method for understanding";
+        char[] arr1=str1.toCharArray();
+        for (int i=arr.length-1; i>=0; i--){
+            rev+=str1.charAt(i);
+
+
+        }
+
 
     }
 }

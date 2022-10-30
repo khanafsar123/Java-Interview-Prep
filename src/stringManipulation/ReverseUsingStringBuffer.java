@@ -7,7 +7,5 @@ public class ReverseUsingStringBuffer {
         str1.reverse();
         System.out.println(str1);
 
-
-
     }
 }
